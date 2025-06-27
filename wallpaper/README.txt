@@ -1,0 +1,1 @@
+Coloque aqui seu wallpaper com tema Gruvbox (por exemplo, gruvbox-wallpaper.jpg)

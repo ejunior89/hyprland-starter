@@ -1,0 +1,8 @@
+{
+  "layer": "top",
+  "modules-left": ["workspaces", "clock"],
+  "modules-right": ["battery", "pulseaudio"],
+  "clock": {
+    "format": "  %H:%M"
+  }
+}
